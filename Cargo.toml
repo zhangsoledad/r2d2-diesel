@@ -8,5 +8,5 @@ homepage = "https://github.com/sgrif/r2d2-diesel"
 repository = "https://github.com/sgrif/r2d2-diesel"
 
 [dependencies]
-r2d2 = "0.7.4"
+r2d2 = "0.8.0"
 diesel = { git = "https://github.com/zhangsoledad/diesel.git", branch = "real_timeout" }
